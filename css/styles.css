@@ -1,0 +1,16 @@
+.jumbotron {
+  background-image: url("http://www.flamesoftheforest.com.au/assets/Uploads/FOTF-arrival-flame-trench-RS.jpg");
+}
+
+.container h1 {
+  color: #bc3029;
+  text-shadow:
+   -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+     1px 1px 0 white;
+}
+
+.jumbotron p {
+  color: red;
+}
